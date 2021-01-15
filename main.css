@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    font-family: Arial;
+    font-size: large;    
+    color: rgb(5, 73, 25);
+    text-shadow: rgba(0, 0, 0, 0.651) 1.5px 1.5px ;
+    
+    background-image: url(/img/grama.png)
+}
